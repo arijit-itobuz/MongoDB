@@ -1,0 +1,5 @@
+
+
+const res = func()
+
+con
